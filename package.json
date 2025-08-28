@@ -12,6 +12,7 @@
     "migration:migrate": "drizzle-kit migrate"
   },
   "dependencies": {
+    "@stackframe/stack": "^2.8.35",
     "dotenv": "^17.2.1",
     "drizzle-orm": "^0.44.5",
     "next": "15.4.6",
