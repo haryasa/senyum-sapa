@@ -6,6 +6,7 @@ Simple LLM based customer support agent.
 
 1. Node.js (v20 or later)
 2. Working postgreSQL database, for example using [Neon](https://neon.com/).
+3. [StackAuth](https://stackauth.dev/) project for authentication.
 
 ## Getting Started
 
